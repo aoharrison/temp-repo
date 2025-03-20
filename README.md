@@ -1,3 +1,3 @@
 # temp-repo
 
-Hello, GitHub!
+Hello, GitHub! :)
